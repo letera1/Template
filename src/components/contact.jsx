@@ -153,7 +153,7 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; React Landing Page Template.
+            &copy; 2025 React Landing Page Template.
           </p>
         </div>
       </div>
