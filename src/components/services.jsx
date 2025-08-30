@@ -8,7 +8,7 @@ export const Services = (props) => {
           <h2>Our Services</h2>
           <p>
             Lorem ipsum doloro sit amet, consectetur adipiscing roelit duis seed
-            dapibus leonec.
+            dapibuyutas leonec.
           </p>
         </div>
         <div className="row">
