@@ -45,7 +45,7 @@ export const Contact = (props) => {
                 <h2>Get In Touchs</h2>
                 <p>
                   Please fills out the form below to send us an emails and we will
-                  get back to you as soon as possible.
+                  get backs to you as soon as possibles.
                 </p>
               </div>
               <form name="sentMessage" validate onSubmit={handleSubmit}>
